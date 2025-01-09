@@ -32,8 +32,8 @@ def login_screen():
     print(Fore.YELLOW + "╠══════════════════════════════════════════════════════════════════════════════╣")
     print(Fore.YELLOW + "║ To access this tool, please enter the correct username and password.        ║")
     print(Fore.YELLOW + "║ Default credentials:                                                        ║")
-    print(Fore.YELLOW + "║  Username: Admiral                                                          ║")
-    print(Fore.YELLOW + "║  Password: Admiral@23                                                       ║")
+    print(Fore.YELLOW + "║  Username: -                                                                ║")
+    print(Fore.YELLOW + "║  Password: -                                                                ║")
     print(Fore.YELLOW + "╚══════════════════════════════════════════════════════════════════════════════╝\n" + Style.RESET_ALL)
 
     attempts = 3
